@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Gaurav</h1>
+<h1 align="center">Hey 🧑🏻‍💻, I'm Gaurav.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/ko4gaurav" target="blank"><img src="https://img.shields.io/twitter/follow/ko4gaurav?logo=twitter&style=for-the-badge" alt="ko4gaurav" /></a> </p>
